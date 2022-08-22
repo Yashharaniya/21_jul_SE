@@ -1,0 +1,29 @@
+1.what is softwer? what is softwer engineering?
+
+ans. Software is a set of instructions, data or programs used to operate computers and execute specific tasks. 
+softwer engineering is  a branch of engineering that deals with the development of software products.
+
+2.explain types of softwer?
+
+ans.
+1. computer softwer
+2.appilcation softwer
+3.systum softwer
+
+3.what is sdlc?explain each phase of sdlc.
+
+ans.
+ Planning, Requirements, Design, Build, Document, Test, Deploy, Maintain.
+SDLC is a process followed for a software project, within a software organization. It consists of a detailed plan describing how to develop, maintain, replace and alter or enhance specific software. The life cycle defines a methodology for improving the quality of software and the overall development process.
+
+4.what is dfd? create a dfd diagram on filpart?
+ans.
+dfd is data flow diagram
+
+5.what is flow chart? create a flowchart to make addition of two numbers.
+ans.
+     A flowchart is a type of diagram that represents a workflow or process. 
+
+6.what is use case diagram? create a use -case on bill payment on paytm. 
+ans.
+     A use case diagram is a way to summarize details of a system and the users within that system. It is generally shown as a graphic depiction of interactions
